@@ -1,19 +1,5 @@
-# nodejs-example
+# Node.js Module Example
 
-node.js example app
+[![Build Status](https://travis-ci.org/PetterKraabol/school-nodejs-example.svg)](https://travis-ci.org/PetterKraabol/school-nodejs-example)
 
-[![build status](https://secure.travis-ci.org/PetterKraabol/nodejs-example.png)](http://travis-ci.org/PetterKraabol/nodejs-example)
-
-## Installation
-
-This module is installed via npm:
-
-``` bash
-$ npm install nodejs-example
-```
-
-## Example Usage
-
-``` js
-var nodejsExample = require('nodejs-example');
-```
+Node.js app example using Vagrant, Yeoman, npm, Jenkins and Grunt.
