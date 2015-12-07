@@ -12,7 +12,7 @@
   },
   "keywords": ["nodejs"],
   "author": "Petter Kraabøl <petter.zarlach@gmail.com>",
-  "license": "BSD-3-Clause",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/PetterKraabol/nodejs-example/issues"
   },
